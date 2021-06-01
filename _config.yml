@@ -1,0 +1,13 @@
+theme: jekyll-theme-cayman
+title: XXXXXX
+description: Gabriele Valvano, Andrea Leo, Sotirios A. Tsaftaris
+google_analytics: UA-169250566-1
+show_downloads: true
+button_home_url: index
+button_paper_url: https://arxiv.org/abs/xxx.xxx
+button_code_url: https://github.com/gvalvano/multiscale-pyag
+button_contacts_url: contacts
+banner: https://github.com/vios-s/multiscale-pyag/blob/main/images/banner.pdf
+plugins:
+  - jemoji
+image_url_prefix: images
