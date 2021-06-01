@@ -22,6 +22,6 @@ Work in progress...
 
 ## Don't miss any update!
 **You can either:**
- - or **write us an** [**email**](https://vios-s.github.io/multiscale-pyag/contacts), and we will answer back
+ - **write us an** [**email**](https://vios-s.github.io/multiscale-pyag/contacts), and we will answer back
  - or **watch the** [**GitHub**](https://github.com/gvalvano/multiscale-pyag) repository for updates on the *code*
 
