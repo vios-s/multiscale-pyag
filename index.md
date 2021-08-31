@@ -13,7 +13,7 @@ Collecting large-scale medical datasets with fine-grained annotations is time-co
 ## Keywords
 **Self-supervised Learning** &nbsp; | &nbsp;
 **Segmentation** &nbsp; | &nbsp;
-**Shape prior** &nbsp; | &nbsp;
+**Shape prior** &nbsp;
 
 ## Cite us:
 ```
