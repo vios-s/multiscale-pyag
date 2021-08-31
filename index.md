@@ -8,16 +8,21 @@ title: Home
 
 [comment]: <> (<img align="right" src="https://github.com/vios-s/multiscale-pyag/blob/master/method.pdf" width=100>)
 
-Work in progress...
+Collecting large-scale medical datasets with fine-grained annotations is time-consuming and requires experts. For this reason, weakly supervised learning aims at optimising machine learning models using weaker forms of annotations, such as scribbles, which are easier and faster to collect. Unfortunately, training with weak labels is challenging and needs regularisation. Herein, we introduce a novel self-supervised multi-scale consistency loss, which, coupled with an attention mechanism, encourages the segmentor to learn multi-scale relationships between objects and improves performance. We show state-of-the-art performance on several medical and non-medical datasets.
 
 ## Keywords
-**kw 1** &nbsp; | &nbsp;
-**kw 2** &nbsp; | &nbsp;
-**kw 3** &nbsp; | &nbsp;
+**Self-supervised Learning** &nbsp; | &nbsp;
+**Segmentation** &nbsp; | &nbsp;
+**Shape prior** &nbsp; | &nbsp;
 
 ## Cite us:
 ```
-Work in progress...
+@incollection{valvano2021selfsup,
+      title={Self-supervised Multi-scale Consistency for Weakly Supervised Segmentation Learning}, 
+      author={Gabriele Valvano and Andrea Leo and Sotirios A. Tsaftaris},
+      year={2021},
+      booktitle={Domain Adaptation and Representation Transfer},
+}
 ```
 
 ## Don't miss any update!
