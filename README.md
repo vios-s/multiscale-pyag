@@ -2,7 +2,7 @@
 
 Project page of the paper: 
 
-> Valvano, Gabriele and Leo, Andrea and Tsaftaris, Sotirios A. "Self-supervised Multi-scale Consistency for Weakly Supervised Segmentation Learning" Domain Adaptation and Representation Transfer (2021).
+> Valvano G., Leo A. and Tsaftaris S. A. (DART, 2021), *Self-supervised Multi-scale Consistency for Weakly Supervised Segmentation Learning*.
 
 # Resources:
 
