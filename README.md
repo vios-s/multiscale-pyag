@@ -1,4 +1,4 @@
-# TITLE
+# Self-supervised Multi-scale Consistency for Weakly Supervised Segmentation Learning
 
 Project page of the paper: 
 
