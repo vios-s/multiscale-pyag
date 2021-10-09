@@ -2,7 +2,7 @@
 
 Project page of the paper: 
 
-> Author List "Paper Name" Venue (YEAR).
+> Valvano, Gabriele and Leo, Andrea and Tsaftaris, Sotirios A. "Self-supervised Multi-scale Consistency for Weakly Supervised Segmentation Learning" Domain Adaptation and Representation Transfer (2021).
 
 # Resources:
 
@@ -15,6 +15,12 @@ Project page of the paper:
 # Cite:
 
 ```
-Work in Progress
-```
+@incollection{valvano2021self,
+  title={Self-supervised Multi-scale Consistency for Weakly Supervised Segmentation Learning},
+  author={Valvano, Gabriele and Leo, Andrea and Tsaftaris, Sotirios A},
+  booktitle={Domain Adaptation and Representation Transfer, and Affordable Healthcare and AI for Resource Diverse Global Health},
+  pages={14--24},
+  year={2021},
+  publisher={Springer}
+}```
 # multiscale-pyag
