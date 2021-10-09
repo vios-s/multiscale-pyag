@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: Self-supervised Multi-scale Consistency for Weakly Supervised Segmentation Learning
+title: Self-supervised Multi-scale Consistency <br>for Weakly Supervised Segmentation Learning
 description: Gabriele Valvano, Andrea Leo, Sotirios A. Tsaftaris
 google_analytics: G-TSC2WQC7ZM
 show_downloads: true
