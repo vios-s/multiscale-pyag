@@ -6,9 +6,9 @@ Project page of the paper:
 
 # Resources:
 
-- [**project page**](https://vios-s.github.io/multiscale-pyag/).  
+- [**project page**](https://vios-s.github.io/multiscale-pyag/)
 
-- [**paper**](https://arxiv.org/abs/2108.11900).  
+- [**paper**](https://arxiv.org/abs/2108.11900)
 
 - [**code**](https://github.com/gvalvano/multiscale-pyag)
 
